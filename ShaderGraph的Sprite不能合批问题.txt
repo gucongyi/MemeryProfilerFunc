@@ -1,0 +1,2 @@
+调整层级不能使用Z轴，z轴不为0的时候不能合批
+调整层级使用Renderer上的order in layer
